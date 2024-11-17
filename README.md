@@ -1,4 +1,6 @@
-# Hi Reviewer, Let's have a quick chat I will explain better to you about the task.Dont judge quickly go through the code first and sorry to say i have never implemented swagger i have used postman but its mentioned in the task so i have take help from documentation and Ai and implemented in the code
+# Hi Reviewer, Let's have a quick chat I will explain better to you about the task.Dont judge quickly go through the code first and sorry to say i have never implemented swagger i have used Postman but its mentioned in the task so i have take help from documentation and Ai and implemented it in the code
+
+This is the screenshot of Postman I have taken you can see here create a product Api means refer here a car which have title description,location,tags,carType:SUV(Car)![Screenshot (1545)](https://github.com/user-attachments/assets/8195111e-568c-4ded-ba58-a47176ab0e55)
 
 SDE Intern Task:-Car Management Application
 This project is a NestJS-based API that includes product and user management, as well as authentication and product management here car management I have referred to the term product for a car. It provides a variety of RESTful endpoints for handling users and products, including features like user registration, login, product creation, and updating.
